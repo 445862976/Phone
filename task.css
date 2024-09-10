@@ -1,0 +1,24 @@
+nav {
+  background-color: #54c1c1;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+#home {
+  background: red;
+  height: 500px;
+}
+#about {
+  background: rgb(54, 151, 109);
+  height: 500px;
+}
+#serves {
+  background: #6e9820;
+  height: 500px;
+}
+img {
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+}
